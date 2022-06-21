@@ -478,6 +478,36 @@ footer a{
         background-color: white;
     }
 
+
+
+    #roadmap{
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .roadmap-texts{
+        width: 80%;
+        margin: 40px auto;
+        font-size: 18px;
+        font-style: italic;
+        border: 2px solid #2c0027;
+        text-align: center;
+        padding: 40px 10px;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3), 0px -5px 10px rgba(0, 0, 0, 0.3);
+    }
+
+    .roadmap-header{
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 4px;
+        font-size: 40px;
+        font-weight: 800;
+    }
+
+    .part1{
+        font-size: 30px;
+    }
+
   
     #team{
         width: 100%;
